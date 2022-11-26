@@ -1,0 +1,55 @@
+Articuno
+Zapdos
+Moltres
+Mewtwo
+Raikou
+Entei
+Suicune
+Lugia
+Ho-oh
+Regirock
+Regice
+Calyrex
+Registeel
+Latias
+Latios
+Kyogre
+Groudon
+Rayquaza
+Uxie
+Mesprit
+Azelf
+Dialga
+Palkia
+Giratina
+Cresselia
+Heatran
+Regigigas
+Cobalion
+Terrakion
+Virizion
+Tornadus
+Thundurus
+Landorus
+Reshiram
+Zekrom
+Kyurem
+Xerneas
+Yveltal
+Zygarde
+Type: Null
+Silvally
+Tapu Koko
+Tapu Lele
+Tapu Bulu
+Tapu Fini
+Cosmog
+Cosmoem
+Solgaleo
+Lunala
+Necrozma
+Zacian
+Zamazenta
+Eternatus
+Kubfu
+Urshifu

@@ -1,0 +1,28 @@
+{
+  "name": "v14",
+  "version": "1.0.0",
+  "description": "discord.js v14 pokemon bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "pokemonbot",
+    "pokemondiscord",
+    "discord",
+    "bot",
+    "mongoose",
+    "pokemons",
+    "oak"
+  ],
+  "author": "leaf",
+  "license": "ISC",
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.30",
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1",
+    "mongoose": "^6.5.1",
+    "request-promise-native": "^1.0.9"
+  }
+}
