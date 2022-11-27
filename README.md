@@ -38,4 +38,4 @@ Invite your Discord Bot with `bot` and `applications.commands` scope
 
 ## Preview
 
-Soon
+![preview](https://media.discordapp.net/attachments/1032592227584712754/1046365081346261022/preview.png)
